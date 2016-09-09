@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="gb2312"?>
+<configure120305>
+    <compile>
+        <PreDefine />
+        <Opt />
+        <NdkParam />
+        <Compiler />
+        <Cpu />
+        <Cparam />
+    </compile>
+    <link>
+        <lparam />
+        <fixup />
+        <name />
+        <resName />
+        <mode />
+        <resMode />
+        <version />
+        <resVersion />
+        <typeName />
+        <no />
+        <StartUp />
+        <crt />
+        <LibA9L>1</LibA9L>
+        <LibQT>1</LibQT>
+        <IncA9L>1</IncA9L>
+        <IncQT>1</IncQT>
+    </link>
+    <global>
+        <UserLib />
+        <IncFile />
+        <Edition>ANDROID</Edition>
+        <ApkName />
+    </global>
+    <ResFile>
+        <sdb>".\sdb"</sdb>
+        <misc>".\misc"</misc>
+        <ffs />
+        <cfs />
+        <bfs />
+        <para />
+        <PackTogether>YES</PackTogether>
+        <PackRes>NO</PackRes>
+    </ResFile>
+    <Android>
+        <srcfilename>1</srcfilename>
+        <epayflag>1</epayflag>
+        <shortcutexist />
+        <shortcutperm />
+        <keepdata />
+        <apktype>0</apktype>
+        <EPT>1</EPT>
+        <V1Config />
+        <JAR />
+    </Android>
+    <Global>
+        <UserLib />
+        <IncFile />
+    </Global>
+</configure120305>
+
